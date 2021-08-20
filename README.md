@@ -1,6 +1,6 @@
 # Moq-and-xUnit
 
-## A unit test an mock project using Moq and xUnit. 
+## A unit test a mock project using Moq and xUnit. 
 The current project cover de following tests topics:
 
 	
